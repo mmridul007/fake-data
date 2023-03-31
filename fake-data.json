@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Xefer",
+      "avater": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "blog_title": "Web Master",
+      "release_time": "Mar 14",
+      "elapse_day": "4 days ago",
+      "blog_banner": "https://thumbs.dreamstime.com/z/web-programming-banner-landing-page-coding-testing-writing-program-website-using-internet-different-software-211985564.jpg",
+      "blog_duration": 15
+    },
+    {
+      "id": 2,
+      "name": "Mr. Barek",
+      "avater": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "blog_title": "Web Development",
+      "release_time": "Mar 15",
+      "elapse_day": "5 days ago",
+      "blog_banner": "https://thumbs.dreamstime.com/z/web-programming-banner-landing-page-coding-testing-writing-program-website-using-internet-different-software-191188200.jpg",
+      "blog_duration": 13
+    },
+    {
+      "id": 3,
+      "name": "Mr. Oris",
+      "avater": "https://cdn.hswstatic.com/gif/play/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg",
+      "blog_title": "Backend Developer",
+      "release_time": "Mar 16",
+      "elapse_day": "6 days ago",
+      "blog_banner": "https://img.freepik.com/premium-vector/back-end-development-web-banner-landing-page-software-development-process-website-interface-design-improvement-programming-coding-it-profession_277904-7533.jpg",
+      "blog_duration": 20
+    },
+    {
+      "id": 4,
+      "name": "Mr. Subin",
+      "avater": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "blog_title": "Software Development",
+      "release_time": "Mar 17",
+      "elapse_day": "7 days ago",
+      "blog_banner": "https://img.freepik.com/premium-vector/software-developer-concept-idea-programming-coding-system-development-digital-technology-software-developing-company-writing-code_277904-7737.jpg?w=2000",
+      "blog_duration": 10
+    },
+    {
+      "id": 5,
+      "name": "Sumit Saha",
+      "avater": "https://thumbs.dreamstime.com/b/nice-to-talk-smart-person-indoor-shot-attractive-interesting-caucasian-guy-smiling-broadly-nice-to-112345489.jpg",
+      "blog_title": "Software Engineer",
+      "release_time": "Mar 18",
+      "elapse_day": "8 days ago",
+      "blog_banner": "https://img.freepik.com/premium-vector/software-engineer-concept-idea-programming-coding-system-development-digital-technology-software-developing-company-writing-code-isolated-vector-illustration_128772-1779.jpg?w=2000",
+      "blog_duration": 9
+    },
+    {
+      "id": 6,
+      "name": "Tessa",
+      "avater": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=7lrLYx-B",
+      "blog_title": "Software Testing",
+      "release_time": "Mar 19",
+      "elapse_day": "9 days ago",
+      "blog_banner": "https://img.freepik.com/free-vector/software-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-illustration_107791-3131.jpg",
+      "blog_duration": 12
+    }
+  ]
